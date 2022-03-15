@@ -1,0 +1,221 @@
+== MrChecker - devonfw testing tool
+
+==  Who Is MrChecker
+
+include::home.adoc[leveloffset=3]
+
+include::benefits.adoc[leveloffset=3]
+
+include::Who-Is-MrChecker/Test-Stages.adoc[leveloffset=3]
+
+==  Test Framework Modules
+
+In this section, it is possible to find all the information regarding the main modules of MrChecker: 
+
+== Core Test Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-Test-reports-with-logs-and-or-screenshots.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-test-groups-tags.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-Data-driven-approach.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-Test-case-parallel-execution.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-BDD-Gherkin-Cucumber-approach.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-Run-on-independent-Operating-Systems.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-Externalize-test-environment-DEV-QA-SIT-PROD.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module-Different-Environments.adoc[leveloffset=4]
+
+== Selenium Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module.adoc[leveloffset=4]
+
+== Selenium Structure
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-What-is-Selenium.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-What-is-WebDriver.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-What-is-Page-Object-Model-Pattern.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-List-of-web-elements.adoc[leveloffset=4]
+
+== Framework Features
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-Construction-of-Framework-Page-Class.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-CSS-selectors.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-Selenium-UFT-Comparison.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-Run-on-different-browsers.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-Run-with-different-browser-options.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-Run-with-full-range-of-resolution.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Selenium-Test-Module-Selenium-Best-Practices.adoc[leveloffset=4]
+
+== Web API Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Web-API-Test-Module.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Web-API-Test-Module-What-is-service-virtualization.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Web-API-Test-Module-How-plug-in-service-virtualization-into-Application-Under-Test.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Web-API-Test-Module-How-to-make-virtual-asset.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Web-API-Test-Module-Smoke-Tests-virtualization.adoc[leveloffset=4]
+
+== Security Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Security-Test-Module.adoc[leveloffset=4]
+
+== Database Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Database-Test-Module.adoc[leveloffset=4]
+
+== Mobile Test Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Mobile-Test-Module.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/Mobile-Test-Module-How-to-use.adoc[leveloffset=4]
+
+== DevOps Test Module
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module-Continuous-Integration-CI.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module-Continuous-Delivery-CD.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module-Pipeline-structure.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module-Selenium-Grid.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module-Jenkins-Plugins.adoc[leveloffset=4]
+
+include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module-Docker-commands.adoc[leveloffset=4]
+
+==  MrChecker download
+== Windows
+
+include::MrChecker-download/Windows/Advanced-installation.adoc[leveloffset=4]
+
+== Mac
+include::MrChecker-download/Mac.adoc[leveloffset=4]
+
+== My Thai Star
+include::MrChecker-download/MyThaiStar.adoc[leveloffset=4]
+==  Tutorials
+
+In order to learn more about MrChecker structure, start from Project Organisation section and then check out our fantastic tutorials:
+
+This tutorial will guide you through the series of test which perform basic actions on webpages using MrChecker.
+
+Make sure you already have MrChecker Test Framework installed on your PC. How to install?
+
+Your Product Under Test will be the following website: http://the-internet.herokuapp.com/
+
+include::Who-Is-MrChecker/Tutorials/Project-Organisation.adoc[leveloffset=3]
+
+== Basic Tutorials
+
+== ==  Basic Tests
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-01-AB-Test-Control.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-02-Basic-Auth-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-03-Broken-Images-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-04-Challenging-DOM-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-05-Checkboxes.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-06-Disappearing-Elements.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-07-Drag-and-Drop.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-08-Dropdown-List.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-09-Dynamic-Content.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-10-Dynamically-loaded-elements.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-11-Exit-Intent.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-12-File-download-test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-13-Form-Authentication-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-14-Hovers-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-15-JavaScript-Alerts.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-16-Key-Presses-test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-17-Multiple-Windows.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-18-Redirection.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-19-Slider-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-20-Sortable-Data-Tables.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/Basic-Tests/Example-21-Status-Codes.adoc[leveloffset=5]
+
+== ==  First Steps
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/First-Steps/Page-object.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/First-Steps/Environment-variables.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/First-Steps/Selectors.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/First-Steps/Elements-Types.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/First-Steps/The-Internet-Base-Test.adoc[leveloffset=5]
+
+include::Who-Is-MrChecker/Tutorials/Basic-Tutorials/First-Steps/BFLogger.adoc[leveloffset=5]
+
+== E2E Tutorials
+
+include::Who-Is-MrChecker/Tutorials/E2E-Tutorials/Tutorial1.adoc[leveloffset=4]
+
+==  Migration from JUnit4 to JUnit5
+
+== Migration guide
+
+include::Migration/Migration-guide.adoc[leveloffset=4]
+
+==  FAQ
+
+Here you can find the most frequently asked questions regarding working with MrChecker and installation problems.
+
+== Common problems
+
+include::FAQ/Common-problems/I-cannot-find.adoc[leveloffset=4]
+
+include::FAQ/Common-problems/It-is-possible.adoc[leveloffset=4]
+
+include::FAQ/Common-problems/Tests-are-not-stable.adoc[leveloffset=4]
+
+== How to
+
+include::FAQ/How-to/Change-timeouts.adoc[leveloffset=4]
+
+include::FAQ/How-to/Start-a-browser.adoc[leveloffset=4]
+
+== Installation problems
+
+include::FAQ/Installation-problems/Chromedriver-version.adoc[leveloffset=4]
+
+include::FAQ/Installation-problems/My-browser-opens-up.adoc[leveloffset=4]
